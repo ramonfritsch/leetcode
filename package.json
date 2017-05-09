@@ -1,0 +1,24 @@
+{
+  "scripts": {},
+  "devDependencies": {},
+  "dependencies": {},
+  "name": "leetcode",
+  "version": "0.0.1",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ramonfritsch/leetcode.git"
+  },
+  "keywords": [
+    "leetcode",
+    "solutions",
+    "exercises"
+  ],
+  "author": "Ramon Fritsch",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ramonfritsch/leetcode/issues"
+  },
+  "homepage": "https://github.com/ramonfritsch/leetcode#readme",
+  "description": ""
+}
