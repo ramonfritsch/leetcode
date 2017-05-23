@@ -10,7 +10,7 @@ var threeSum = function(nums) {
 	var r = [];
 	var l = nums.length;
 
-	nums = nums.sort(function (a, b) {
+	nums.sort(function (a, b) {
 		return a - b;
 	});
 
