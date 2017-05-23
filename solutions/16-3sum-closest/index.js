@@ -3,7 +3,7 @@
  * @param {number} target
  * @return {number}
  */
-var threeSumClosest = function(nums, target) {
+module.exports = function(nums, target) {
 	if (!nums && nums.length < 3) {
 		return 0;
 	}

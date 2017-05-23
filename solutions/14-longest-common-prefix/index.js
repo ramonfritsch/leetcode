@@ -2,7 +2,7 @@
  * @param {string[]} strs
  * @return {string}
  */
-var longestCommonPrefix = function(strs) {
+module.exports = function(strs) {
 	if (!strs || strs.length === 0) {
 		return '';
 	}

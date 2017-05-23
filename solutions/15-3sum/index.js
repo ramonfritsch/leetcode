@@ -2,7 +2,7 @@
  * @param {number[]} nums
  * @return {number[][]}
  */
-var threeSum = function(nums) {
+module.exports = function(nums) {
 	if (!nums || nums.length < 3) {
 		return [];
 	}

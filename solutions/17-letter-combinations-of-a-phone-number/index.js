@@ -14,7 +14,7 @@ var digitsMap = {
 	9: ['w', 'x', 'y', 'z']
 };
 
-var letterCombinations = function(digits) {
+module.exports = function(digits) {
 	var combinations = [];
 
 	if (!digits || !digits.length) {

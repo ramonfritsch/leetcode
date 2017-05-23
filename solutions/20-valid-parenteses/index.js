@@ -7,7 +7,7 @@ var chars = {
 		'[': ']',
 		'{': '}'
 	};
-var isValid = function(s) {
+module.exports = function(s) {
 	var stack = [];
 
 	for (var i = 0, l = s.length; i < l; i++) {
